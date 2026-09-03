@@ -47,25 +47,35 @@ Security                     Developer Tooling
 
 ## Technology
 
-**Languages**
+### Languages
 
-`TypeScript` · `JavaScript` · `Python` · `Go` · `C#` · `Java` · `Swift` · `Kotlin` · `C++` · `C` · `Rust` · `PHP` · `Dart` · `Bash`
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cs,java,swift,kotlin,cpp,c,rust,php,dart,bash" />
+</p>
 
-**Frontend**
+### Frontend
 
-`React` · `Next.js` · `Vue` · `Angular` · `Svelte` · `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind" />
+</p>
 
-**Backend**
+### Backend
 
-`Node.js` · `NestJS` · `Express` · `FastAPI` · `Django` · `.NET` · `Spring Boot` · `GraphQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,dotnet,spring,graphql" />
+</p>
 
-**Data**
+### Data
 
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `SQLite`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+</p>
 
-**Infrastructure**
+### Infrastructure
 
-`Docker` · `Kubernetes` · `Linux` · `Nginx` · `Terraform` · `GitHub Actions` · `AWS` · `Azure` · `GCP`
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,terraform,githubactions,aws,azure,gcp" />
+</p>
 
 <br>
 
@@ -81,7 +91,7 @@ Wi-Fi Analysis        Health Checks
 Speed Testing         Automated Reports
 ```
 
-→ [View repository](https://github.com/rahmankutlu/network-technician-toolkit)
+→ <a href="https://github.com/rahmankutlu/network-technician-toolkit">View repository</a>
 
 <br>
 
